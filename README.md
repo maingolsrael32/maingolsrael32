@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Maingo Israel 👋
 
-<!--
-**maingolsrael32/maingolsrael32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an MSc Statistics graduate with an interest in data analysis, data science, quantitative analysis, machine learning, artificial intelligence, and time series modelling. I enjoy working with data to understand patterns, solve problems, and develop practical insights from statistical and machine learning methods.
 
-Here are some ideas to get you started:
+My academic background has given me experience in statistical modelling, financial time series analysis, volatility modelling, and working with data using programming tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Machine Learning  
+- Artificial Intelligence  
+- Data Analytics
+- Data Science
+- Quantitative Analysis
+- Time Series Analysis  
+- Financial Modelling  
+- Statistical Modelling
+- Statistics Education and Lecturing
+  
+## Technical Skills
+- Python  
+- R Programming  
+- SQL  
+- LaTeX  
+- Data Analysis and Visualisation  
+- Statistical Computing
+- GitHub
+  
+## Projects
+Here are some of the areas I will be sharing projects on:
+- Financial time series and volatility modelling
+- Modelling and Forecasting time seris data 
+- Machine learning applications  
+- Data analytics and statistical modelling projects  
+- Research and practical data-driven solutions  
+
+## Currently Learning
+I am continuously improving my skills in machine learning, artificial intelligence, and applied data science through projects and practical problem-solving.
+
+## Connect With Me
+- Email: maingolsrael32@gmail.com 
+- LinkedIn: https://linkedin.com/in/maingo-lsrael-98547b28b
+- ORCID: https://orcid.org/0009-0005-2873-5636
+- Google Scholar: https://scholar.google.com/citations?user=fcQSMJ8AAAAJ&hl=en&oi=sra
